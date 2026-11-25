@@ -1,0 +1,12 @@
+# Local journals, backups and editor state
+*.txt
+*.bak
+*.lock
+*.tmp
+*.zip
+.vs/
+*.user
+# Local build output
+/TaskDesk.exe
+bin/
+obj/
